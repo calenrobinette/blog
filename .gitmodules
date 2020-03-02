@@ -3,5 +3,5 @@
 	url = https://github.com/victoriadrake/hugo-theme-sam.git
 [submodule "public"]
 	path = public
-	url = https://github.com/calenrobinette/calenrobinette.github.io
+	url = https://github.com/calenrobinette/calenrobinette.github.io.git
 	branch = master
