@@ -17,7 +17,7 @@ pygmentsCodefences       = true
 
 # Metadata for Open Graph and Twitter
     description          = "Thoughts, Code and Notes by Calen Robinette"               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    # images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Calen Robinette's blog"
 
 [[params.mainMenu]]
